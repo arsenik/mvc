@@ -1,4 +1,4 @@
 mvc
 ===
 
-A simple MVC framework in PHP
+A small MVC framework in PHP
