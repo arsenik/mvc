@@ -1,0 +1,25 @@
+body{
+  font-family: Helvetica, Arial, sans-serif;
+}
+
+.legend{
+  font-weight: bold;
+}
+
+.addForm div{
+  clear: both;
+}
+
+form label{
+  text-align: right;
+  padding-right: 5px;
+  display: block;
+  float: left;
+  width: 75px;
+}
+
+form input{
+  display: block;
+  float: left;
+  width: 150px;
+}

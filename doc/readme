@@ -1,0 +1,7 @@
+#DATABASE
+Create a new database, by default 'annuaire' is used.
+Configure db user, pass, server in config/config.php.
+
+#WEB SERVER DIRECTORY
+Your document directory should be web and directory index should be index.php.
+
